@@ -1,7 +1,7 @@
 #Preface
-This is the first project that I did it in my first summer vacation at SWU.At that time we've just learnt some basic knowledge of programming and simple algorithms.
-As a result,my first attempt of the project wasn't successful.But anyway,the idea,as well as the creativity,was highly praised by my tutor Dr Q.Zou.
-I couldn't imagine that such a simple or even poor-designed project could be recognized.It would be a remarkable experience that drives me to explore more in programming.
+This is the first project that I worked on in my first summer vacation at SWU.At that time we had just learnt some basic knowledge of programming and simple algorithms.
+As a result,my first attempt at the project wasn't successful.But anyway,the idea,as well as the creativity,was highly praised by my tutor Dr Q.Zou.
+I couldn't imagine that such a simple or even poorly designed project could be recognized.It would be a remarkable experience that drives me to explore more in programming.
 My Sincere Appreciation again to my best teacher,Dr Q.Zou,a teacher from faculty of CS&SE of SWU.
 
 #Info
